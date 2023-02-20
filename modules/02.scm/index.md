@@ -5,6 +5,7 @@ duration: 3 hours
 # Versioning with Git
 
 ![Versioning](image/git-logo.png)
+- Change
 
 ## Objectives
 

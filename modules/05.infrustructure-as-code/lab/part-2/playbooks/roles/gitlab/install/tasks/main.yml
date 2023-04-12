@@ -5,6 +5,7 @@
       - curl
       - policycoreutils-python
       - openssh-server
+      - perl
     state: latest
 
 - name: Enable and start sshd
